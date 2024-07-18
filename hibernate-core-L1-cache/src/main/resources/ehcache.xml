@@ -1,0 +1,16 @@
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="http://ehcache.org/ehcache.xsd"
+         updateCheck="false"
+         monitoring="autodetect"
+         dynamicConfig="true">
+
+    <cache name="org.hibernate_core.entity.Student"
+           maxEntriesLocalHeap="100000"
+           timeToLiveSeconds="600"
+           eternal="false">
+
+        <persistence strategy="none"/>
+
+    </cache>
+
+</ehcache>
