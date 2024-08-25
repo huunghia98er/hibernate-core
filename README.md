@@ -5,8 +5,7 @@
 
 # L1 cache không hoạt động trong trường hợp sau.
 
-
-
+Commit 2
 
 ![img_1.png](hibernate-core-L1-cache/img/img_1.png)
 
