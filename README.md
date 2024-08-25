@@ -3,7 +3,10 @@
 
 ![img.png](hibernate-core-L1-cache/img/img.png)
 
-# L1 cache không hoạt động trong trường hợp sau
+# L1 cache không hoạt động trong trường hợp sau.
+
+
+
 
 ![img_1.png](hibernate-core-L1-cache/img/img_1.png)
 
